@@ -23,7 +23,7 @@ void main(void)
 	// iterators for printing
 	int i, j;
 
-	// save 1 in position
+	// save 1 in initial position
 	magic_box[row][col] = num;
 
 	
@@ -46,6 +46,7 @@ void main(void)
 			row = (row + 1) % n;
 		}
 
+
 		// save num in determined position
 		magic_box[row][col] = num;
 	}
@@ -53,12 +54,14 @@ void main(void)
 	// print magic box
 	for (i = 0; i < n; i++)
 	{
+		printf("\n\n\t\t");
+
 		for (j = 0; j < n; j++)
 		{
-			printf("%d ", magic_box[i][j]);
+			printf("%d\t", magic_box[i][j]);
 		}
 
-        	printf("\n");
+			printf("\n\n");
 	}
 
 	return;
