@@ -24,7 +24,7 @@ void main(void)
     {
         printf("Enter a String of Size 20: ");
         scanf(" %s", &s2);
-    } while (strlen(s1) > MAX_STR_SIZE);
+    } while (strlen(s2) > MAX_STR_SIZE);
     printf("String 2 was saved successfully.\n");
     
     if (strlen(s1) == strlen(s2))
