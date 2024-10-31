@@ -1,4 +1,4 @@
-![Screenshot from 2024-10-31 10-00-25](https://github.com/user-attachments/assets/69f32b33-aa00-409d-9c07-c325fbddd3af)# Introduction to Programming Using C Language Course Labs
+# Introduction to Programming Using C Language Course Labs
 This repository contains my solutions to the lab exercises in the course titled "Introduction to Programming Using C Language" in my ITI 9-month scholarship.
 
 ## Tools Used
