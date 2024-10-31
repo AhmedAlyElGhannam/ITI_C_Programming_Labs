@@ -39,4 +39,7 @@ All the uploaded code was NEITHER written on your average IDE nor compiled using
 ![Screenshot from 2024-10-31 10-00-41](https://github.com/user-attachments/assets/ed9caf3e-ea15-4cd0-a36f-89bdbbf1e80a)
 
 
-
+### BORLANDC Key Bindings (For Future Reference)
+1. ALT + ENTER => Full Screen
+2. ALT + Red Letter of a Menu => Opens that menu/Uses this option of that menu.
+3. ALT + W THEN ALT + O => Opens Scrollable output terminal. (Closed using ALT + W THEN ALT + C)
